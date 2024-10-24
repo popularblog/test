@@ -1,4 +1,6 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pMIxZB0jyFxJQA7nYk11-FuS3sRq-LnPXU5kkXKYwk7DMIfSkNMs0LY&s=10" group-title="SPORTS", Tsports 
 #EXT-X-TARGETDURATION:7 
 #EXT-X-VERSION:3 
 #EXT-X-MEDIA-SEQUENCE:21995 
