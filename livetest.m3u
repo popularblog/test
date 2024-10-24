@@ -1,0 +1,12 @@
+#EXTM3U 
+#EXT-X-TARGETDURATION:7 
+#EXT-X-VERSION:3 
+#EXT-X-MEDIA-SEQUENCE:21995 
+#EXT-X-PROGRAM-DATE-TIME:2024-10-24T06:52:15.262Z 
+#EXT-X-KEY:METHOD=AES-128,IV=0x3030303030303030303030306719bf17,URI="https://key2.keylocking.ru/wmsxx.php?test=true&name=premium65&number=1",KEYFORMAT="identity" 
+#EXTINF:6.000, https://top1.hawwkc179.ru.com/ddy1/premium65/2024/10/24/06/52/15-06000.ico 
+#EXTINF:6.000, https://zet2.bestcachecdn193.shop/ddy1/premium65/2024/10/24/06/52/21-06000.js 
+#EXTINF:5.800, https://phpmain.videonode1.ru.com/ddy1/premium65/2024/10/24/06/52/27-05800.css 
+#EXTINF:6.200, https://zet2.videonode80.ru.com/ddy1/premium65/2024/10/24/06/52/33-06200.css 
+#EXTINF:6.000, https://zet2.hawwkc61.ru.com/ddy1/premium65/2024/10/24/06/52/39-06000.ico 
+#EXTINF:6.000, https://zet.videonode124.ru.com/ddy1/premium65/2024/10/24/06/52/45-06000.txt
